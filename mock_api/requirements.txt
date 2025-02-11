@@ -9,5 +9,5 @@ pydantic~=2.8.2
 pyjwt~=2.8.0
 passlib~=1.7.4
 python-jose~=3.3.0
-cryptography~=43.0.0
+cryptography~=44.0.1
 asyncpg~=0.29.0
