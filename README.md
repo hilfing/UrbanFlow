@@ -120,7 +120,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## Acknowledgments
 
-- This project was developed as part of the ISEF project by Indradip Paul.
+- This project was developed as part of the ISEF project by HilFing.
 - Special thanks to my mentor for guidance and support.
 
 ## License
@@ -131,5 +131,5 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [indradip.paul@outlook.com](mailto:indradip.paul@outlook.com)
+- **Email**: [HilFIng](mailto:contact@hilfing.dev)
 - **GitHub**: [HilFing](https://github.com/hilfing)
